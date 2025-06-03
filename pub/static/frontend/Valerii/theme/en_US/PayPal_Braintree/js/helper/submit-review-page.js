@@ -1,0 +1,1 @@
+/var/www/html/vendor/paypal/module-braintree-core/view/frontend/web/js/helper/submit-review-page.js
