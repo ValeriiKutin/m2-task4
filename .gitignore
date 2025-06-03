@@ -1,0 +1,8 @@
+var/page_cache/*
+var/view_preprocessed/*
+var/tmp/*
+generated/*
+pub/static/*
+vendor/*
+app/etc/env.php
+node_modules/*
